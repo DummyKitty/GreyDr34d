@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me 👋
 
 <!--
 **GreyDr34d/GreyDr34d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 💻 Web 安全爱好者（）努力跟上大佬们的脚步）
+- 💻 IOT 安全学习者（未来进一步拓展的方向）
+- 👨‍🎓 正在努力进一步提升学历。
+- 📚 喜欢阅读，不仅仅只是抗拒无用社交，更喜欢通过书籍，造访到不了的地方，体会没有体验过的人生。
+- 🛌 该睡觉时一定不卷。
