@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 - 💻 Web Security
 - 🏥 Medicine lover (taught by girlfriend)
 - 👨‍🎓 Trying to further improve education.
-<!-- - 📚 喜欢阅读，不仅仅只是抗拒无用社交，更喜欢通过书籍，造访到不了的地方，体会没有体验过的人生。 -->
 - 📚 love reading.through books ,I can visit places I have never been, can experience life I have never experienced.
 - 🛌 sleeping well
+<!-- - 📚 喜欢阅读，不仅仅只是抗拒无用社交，更喜欢通过书籍，造访到不了的地方，体会没有体验过的人生。 -->
+
 
 ### Blog
 - https://greydr34d.github.io/
