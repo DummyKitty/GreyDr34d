@@ -1,6 +1,6 @@
 ### About me 👋
 
-wuwuwu 我是菜鸡 <img align='right' src="https://github-readme-stats.vercel.app/api?username=GreyDr34d&theme=vue&show_icons=true" width="380">
+keep going <img align='right' src="https://github-readme-stats.vercel.app/api?username=GreyDr34d&theme=vue&show_icons=true" width="380">
 
 <!--
 **GreyDr34d/GreyDr34d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
